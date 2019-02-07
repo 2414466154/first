@@ -1,0 +1,26 @@
+int i=1;
+int j;
+char admin_name_ly[15];
+char admin_pwd_ly[15];
+do{
+printf("\n请输入管理员名：");
+scanf("%s",admin_name_ly);
+printf("\n请输入管理员密码:");
+scanf("%s",admin_pws_ly);
+//密码加密
+/*for(j=0;;j++)
+{
+admin_pwd_ly[j]=getch();
+if(admin_pwd_ly[j]=='\x0d')
+{
+admin_pwd_ly[j]='\0';
+break;
+}
+if(admin_pwd_ly[j]==8&&j>0)
+{
+printf("\b \b");
+j=j-2;
+continue;
+}
+printf("*");
+}*/

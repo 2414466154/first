@@ -1,0 +1,9 @@
+#define ADMIN_PASSWARD "admin"
+#define NO_GRADE -1
+#define NO_FOUND -1
+#define YES 1
+#define NO 0
+#define TEACHER_MAX 50
+#define	STUDENT_MAX 200
+#define COURSE_MAX 15
+#define	SELECT_MAX 600

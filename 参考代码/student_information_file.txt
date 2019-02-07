@@ -1,0 +1,5 @@
+1 qwe 17856001723 student 
+2 aaa 17856001723 student 
+3 jin 17856000235 student 
+4 hub 17856001723 student 
+5 jbo 17856001723 student
